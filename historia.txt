@@ -1,6 +1,6 @@
 Esta es la historia de Joaquín Arredondo
 
 Joaquín Tiene 28 años y nació en Guatemala
-viviendo en la ciudad.
+VIVIO EN LA CIDUDAD
 
 Hoy aprende Git y Github
