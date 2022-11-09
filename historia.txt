@@ -4,4 +4,5 @@ Joaquín Tiene 28 años y nació en Guatemala
 VIVIO EN LA CIDUDAD
 
 Hoy aprende Git y Github
-No debemos caer, debemos continuar aprendiendo Git
+
+Continuar con el aprendizaje
